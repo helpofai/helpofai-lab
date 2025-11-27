@@ -1,6 +1,6 @@
 # Project Overview
 
-This is a Laravel application, likely a CodePen clone, featuring a modern frontend built with Vue.js and Inertia.js. It utilizes the Monaco Editor for its code editing capabilities, suggesting a focus on interactive code development and display.
+This is the helpofai-lab application, a CodePen clone featuring a modern frontend built with Vue.js and Inertia.js. It utilizes the Monaco Editor for its code editing capabilities, suggesting a focus on interactive code development and display.
 
 ## Technologies Used
 
